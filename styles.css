@@ -16,32 +16,32 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-
-}
-
-.a {
-
-}
-
-.s {
-
-}
-
-.d {
-
-}
-
-.j {
-
-}
-
 .k {
-
+  background-image: url("images/crash.png");
 }
 
 .l {
+  background-image: url("images/kick.png");
+}
 
+.j {
+  background-image: url("images/snare.png");
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
 }
 
 .set {
